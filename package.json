@@ -1,5 +1,5 @@
 {
-  "name": "extract-react-intl-messages",
+  "name": "@codemayonnaise/extract-react-intl-messages",
   "version": "4.1.1",
   "description": "Extract react-intl messages",
   "license": "MIT",
@@ -40,6 +40,7 @@
   ],
   "dependencies": {
     "@babel/core": "^7.9.0",
+    "ajv": "^6.9.1",
     "babel-plugin-react-intl": "^7.0.0",
     "flat": "^5.0.0",
     "glob": "^7.1.6",
